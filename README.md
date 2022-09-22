@@ -1,7 +1,5 @@
 # HangmanWithoutLoops
-===============================================================================
 Hangman Without Loops
-===============================================================================
 - The user of this program will go through a hangman simulation game. A five letter word will be
   used, and the user will have 5 letter guesses before they lose. The word will be predefined,
   and the user's goal is to guess the word under 5 letter guesses. When the word is guessed
